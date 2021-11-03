@@ -58,7 +58,7 @@ return (
   <div className="cardCoun">
     
        <h1> {myItem.name} </h1>
-       <img src = {myItem.img} alt='Countries' />
+       <img src = {myItem.img} alt='' />
 
 
   ) : (
